@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Songster Clicker",
+  "version": "1.5.0",
+  "description": "Автокликер и продвинутый менеджер плейлистов",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.songsterr.com/*",
+        "https://songsterr.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}

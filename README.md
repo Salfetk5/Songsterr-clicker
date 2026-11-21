@@ -52,4 +52,4 @@ HOW TO USE ON IPHONE:
 DISCLAIMER:
 This software is provided "as is" for educational purposes only. The author is not affiliated with Songsterr and is not responsible for any changes to the website's operation or potential account restrictions. Please remember: if you enjoy the service and want to support its development, consider purchasing an official subscription.
 
-My Telegram Channel: https://t.me/fsociety6767
+Support the project: https://www.donationalerts.com/r/burmalda227
